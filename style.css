@@ -1,0 +1,29 @@
+.heading{
+    font-size: 100px;
+    color: aliceblue;
+    font-family: 'Sigmar', cursive;
+}
+
+
+
+.note{
+    font-size: 30px;
+}
+canvas{
+    border : 5px solid white;
+    border-radius: 10px;
+    margin-top: 400px;
+    
+}
+
+.music{
+    color: azure;
+    font-family: 'Sigmar', cursive;
+}
+
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
